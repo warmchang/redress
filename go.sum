@@ -144,8 +144,8 @@ github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+vpHVxEJEs9eg=
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
-github.com/goretk/gore v0.13.2 h1:SMQT+rzqqihepeK7yEGneS1qKrX58zezS4VNTa6bRno=
-github.com/goretk/gore v0.13.2/go.mod h1:xpNkrDy+K4EZE/Z8vhN/0tGZsK775YqyjibI81jeqfg=
+github.com/goretk/gore v0.13.3 h1:MbX4mnxAY0NHV6+JGqOLQMOuBt9G2OhaJA1q1mw3TQ8=
+github.com/goretk/gore v0.13.3/go.mod h1:xpNkrDy+K4EZE/Z8vhN/0tGZsK775YqyjibI81jeqfg=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/sdk v0.1.1/go.mod h1:VKf9jXwCTEY1QZP2MOLRhb5i/I/ssyNV1vwHyQBF0x8=
