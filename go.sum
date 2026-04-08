@@ -49,8 +49,8 @@ github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kB
 github.com/bketelsen/crypt v0.0.4/go.mod h1:aI6NrJ0pMGgvZKL1iVgXLnfIFJtfV+bKCoqOes/6LfM=
 github.com/blacktop/go-dwarf v1.0.14 h1:OjmzfSgg/qAKckn2tWFebcgKgJ7HOqCj7bS+CiE1lrY=
 github.com/blacktop/go-dwarf v1.0.14/go.mod h1:4W2FKgSFYcZLDwnR7k+apv5i3nrau4NGl9N6VQ9DSTo=
-github.com/blacktop/go-macho v1.1.270 h1:7zeKc2MqY7R9nJ42u1Fx5RkVK5bMuI6Q2Bd43FY0m/Y=
-github.com/blacktop/go-macho v1.1.270/go.mod h1:Hc5E2Lvt/U1VT+jOxr1O5l/LNFJeMYK4eAmDfazTiGc=
+github.com/blacktop/go-macho v1.1.271 h1:KpC13blu4m1LVUv3WPU3a73u1xNFapDeA4UJp/J0aG4=
+github.com/blacktop/go-macho v1.1.271/go.mod h1:Hc5E2Lvt/U1VT+jOxr1O5l/LNFJeMYK4eAmDfazTiGc=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=
 github.com/cheynewallace/tabby v1.1.1 h1:JvUR8waht4Y0S3JF17G6Vhyt+FRhnqVCkk8l4YrOU54=
 github.com/cheynewallace/tabby v1.1.1/go.mod h1:Pba/6cUL8uYqvOc9RkyvFbHGrQ9wShyrn6/S/1OYVys=
@@ -144,8 +144,8 @@ github.com/google/uuid v1.1.2/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+
 github.com/googleapis/gax-go/v2 v2.0.4/go.mod h1:0Wqv26UfaUD9n4G6kQubkQ+KchISgw+vpHVxEJEs9eg=
 github.com/googleapis/gax-go/v2 v2.0.5/go.mod h1:DWXyrwAJ9X0FpwwEdw+IPEYBICEFu5mhpdKc/us6bOk=
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
-github.com/goretk/gore v0.13.26 h1:RY6A3fIInoXTOZaYz+Yf7YvT25ujIbaU6uu1FXVV8cY=
-github.com/goretk/gore v0.13.26/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
+github.com/goretk/gore v0.13.27 h1:ADlDhsNmAm3ve9Q5dClyUuHUPD7VnwPe1njSDvrENTk=
+github.com/goretk/gore v0.13.27/go.mod h1:APZGNAlCyPQnb+6DMKFImyz+MPgDVtKcB5RtsSbb+SU=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/sdk v0.1.1/go.mod h1:VKf9jXwCTEY1QZP2MOLRhb5i/I/ssyNV1vwHyQBF0x8=
